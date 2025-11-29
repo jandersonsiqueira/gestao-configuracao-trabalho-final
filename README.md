@@ -1,5 +1,9 @@
 # gestao-configuracao-trabalho-final
 
+# Equipe:
+José Janderson Sampaio Siqueira (2515965)
+Willame Correia de Lima (2527065)
+
 ## Trabalho final
 
 - Trabalho com equipe de no maximo 2 pessoas.
