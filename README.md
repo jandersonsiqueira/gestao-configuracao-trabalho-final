@@ -4,6 +4,13 @@
 José Janderson Sampaio Siqueira (2515965)
 Willame Correia de Lima (2527065)
 
+# Instruções para o uso das variáveis de ambiente
+- API_URL (Aqui será colocado a URL utilizada na API do projeto)
+- PORT (A porta onde o serviço está rodando)
+- DEBUG (Variável determinante para rodar a aplicação em modo DEBUG)
+- USER (Credenciais do usuário para acesso a autenticação na API)
+- TOKEN (Token utilizado para a autenticação na API)
+
 ## Trabalho final
 
 - Trabalho com equipe de no maximo 2 pessoas.
