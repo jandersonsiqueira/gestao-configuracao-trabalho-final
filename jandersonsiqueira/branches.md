@@ -4,3 +4,4 @@
   hotfix
 * main
   prod
+  stage
